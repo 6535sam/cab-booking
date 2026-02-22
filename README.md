@@ -88,7 +88,7 @@ This project was built from the ground up without any front-end frameworks like 
 ---
 ## 🌐 Live Demo & Links
 
-🔗 **[🚀 Live Application]( https://6535sam.github.io/cab-booking)** - Try it now!
+🔗 **[🚀 Live Application]( https://6535sam.github.io/cab-booking/)** - Try it now!
 
 📹 *[🎥 Demo Video](https://drive.google.com/file/d/1FgOH-l4haE3kYnIxQcurvgO-gPe8W5G6/view?usp=drivesdk )* - See it in action!
 
